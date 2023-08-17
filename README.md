@@ -12,6 +12,7 @@ The concept behind this app (hooks) is to study React's Hooks.
 - Hooks are special react functions
 - Enables us to perform some operations in functional component that we could only do with the class components like using state and life cycle methods.
 - Used useState for Forms to store values.
+- Used useEffect | use-case: Every time the component update or renders | Most epecially used with relation to APIs. 
 
 ## How to Build ?
 
